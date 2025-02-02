@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning GAN,CNN
 
-👯 I’m looking to collaborate on data.table organisation
-
 📫 How to reach me venomplays1204@gmail.com
 
 
